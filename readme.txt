@@ -1,6 +1,4 @@
-Zanyar Erkozan -2584985
-Boğaçhan Ayar - 2486967
-CNG462 - AI Assignment 2
+Zanyar Erkozan
 
 Poisonous Chocolate Bar Game
 

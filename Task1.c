@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <math.h>
-//created  by zanyar erkozan and  boğaçhan ayar 
+//created by zanyar erkozan
 // starting date: 7.04.2026
 /* Directory containing the executable (so maze.txt is found even when cwd differs). */
 static char g_exe_dir[1024];

@@ -1,4 +1,4 @@
-# Zanyar Erkozan Boğaçhan Ayar - 2584985 - 2486967
+# Zanyar Erkozan
 # CNG462 AI Assignment 2
 # Poisonous Chocolate Bar Game with Minimax
 # May 2026
@@ -503,8 +503,7 @@ def main():
     print()
     print("================================")
     print(" Poisonous Chocolate Bar Game")
-    print(" Zanyar Erkozan Boğaçhan Ayar")
-    print(" 2584985 - 2486967")
+    print(" Zanyar Erkozan")
     print("================================")
     
     while True:
